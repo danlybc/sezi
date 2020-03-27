@@ -1,0 +1,37 @@
+/* THEMES */
+.france {
+    --theme-light: #FFC8BF;
+    --theme-primary: #268DE1;
+    --theme-secondary:  #FF553A;
+    --theme-warning: #F8B068; 
+    --theme-input: #EEEEEE;
+    --background-color: #f7f7ff;
+  }
+
+
+.blackyellow {
+    --theme-light: #FFF4BF;
+    --theme-primary: #F8E068;
+    --theme-secondary: #fff0a6;
+    --theme-warning: #6E6848; 
+    --theme-input: #2A313B;
+    --background-color: #1E242C;
+  }
+
+  .ayu {
+    --theme-light: rgb(255, 206, 163);
+    --theme-primary: #FFA540;
+    --theme-secondary: #86B300;
+    --theme-warning: #F51818; 
+    --theme-input: #6C7680;
+    --background-color: #FAFAFA;
+  }
+
+  .dracula {
+    --theme-light: #CBF5FF;
+    --theme-primary: #59CFEA;
+    --theme-secondary: #FA74C1;
+    --theme-warning: #EBAD60; 
+    --theme-input: #556291;
+    --background-color: #282A36;
+  }
